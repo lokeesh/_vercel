@@ -1,0 +1,1 @@
+vc-domain-verify=creativebuilderschallenge-staging.fortnite.com,6b246ef150cda1d0923d
